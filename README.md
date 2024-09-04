@@ -11,7 +11,4 @@ Into the bits of 'Pixels', an undergraduate from IIT Jammu, a passionate compute
 ![](https://github-readme-stats.vercel.app/api?username=ManikSinghSarmaal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ManikSinghSarmaal&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ManikSinghSarmaal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

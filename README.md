@@ -1,8 +1,8 @@
 # About Me:
 When I'm not teaching computers to see (and occasionally hallucinate), you can find me:
 
-🏞️ Hiking up mountains, because who needs elevators when you have legs?
-📸 Capturing memories, or as I like to call it, "creating evidence for my future biographer"
+🏞️ Hiking up mountains, because who needs elevators when you have legs?<br>
+📸 Capturing memories, or as I like to call it, "creating evidence for my future biographer"<br>
 🍔 Conducting extensive research on the perfect burger-to-fries ratio (it's a tough job, but someone's gotta do it)
 🎵 Vibing to tunes that make even my neural networks want to dance
 

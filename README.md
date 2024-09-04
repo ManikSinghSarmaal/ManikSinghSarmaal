@@ -3,11 +3,10 @@ When I'm not teaching computers to see (and occasionally hallucinate), you can f
 
 🏞️ Hiking up mountains, because who needs elevators when you have legs?<br>
 📸 Capturing memories, or as I like to call it, "creating evidence for my future biographer"<br>
-🍔 Conducting extensive research on the perfect burger-to-fries ratio (it's a tough job, but someone's gotta do it)
+🍔 Conducting extensive research on the perfect burger-to-fries ratio (it's a tough job, but someone's gotta do it)<br>
 🎵 Vibing to tunes that make even my neural networks want to dance
 
 Want to know more? Let's connect! I promise I won't try to classify you as a cat or a hot dog. 😉
-P.S. If you see me talking to trees, don't worry – I'm just practicing my branching algorithms!
 
 
 ## Socials:

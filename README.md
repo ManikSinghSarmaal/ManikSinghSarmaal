@@ -1,10 +1,4 @@
-# About Me:
-When I'm not teaching computers to see (and occasionally hallucinate), you can find me:
-
-🍔 Conducting extensive research on the perfect burger-to-fries ratio (it's a tough job, but someone's gotta do it)<br>
-🎵 Vibing to tunes that make even my neural networks want to dance
-
-Want to know more? Let's connect! I promise I won't try to classify you as a cat or a hot dog. 😉
+Connect to me, I promise I won't try to classify you as a cat or a hot dog. 😉
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manik-singh-sarmaal-66b291261/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/maniksarmaal/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@maniksarmaal) 

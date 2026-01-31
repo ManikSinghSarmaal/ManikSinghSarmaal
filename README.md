@@ -1,12 +1,265 @@
-There's no me !!
+<div align="center">
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manik-singh-sarmaal-66b291261/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/maniksarmaal/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@maniksarmaal) 
+<!-- Animated Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Manik+Singh+Sarmaal;AI%2FML+Enthusiast+%7C+Developer+%7C+Creator" alt="Typing SVG" />
+</a>
 
-# Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=ManikSinghSarmaal&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views" />
 
-![](https://github-readme-stats.vercel.app/api?username=ManikSinghSarmaal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ManikSinghSarmaal&theme=dark&hide_border=false)<br/>
+<!-- Cool Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-![](https://github-profile-trophy.vercel.app/?username=ManikSinghSarmaal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
+
+---
+
+## 🚀 About Me
+
+```python
+class ManikSinghSarmaal:
+    def __init__(self):
+        self.name = "Manik Singh Sarmaal"
+        self.role = "AI/ML Developer & Software Engineer"
+        self.location = "🌍 Earth"
+        self.languages = ["Python", "C++"]
+        self.interests = ["Machine Learning", "Computer Vision", "Deep Learning", "IoT"]
+        self.currently_learning = "Always something new! 🚀"
+    
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's build something amazing together! 🚀")
+
+me = ManikSinghSarmaal()
+me.say_hi()
+```
+
+- 🔭 I'm currently working on **AI/ML Projects & Computer Vision Applications**
+- 🌱 I'm currently learning **Advanced Deep Learning & MLOps**
+- 👯 I'm looking to collaborate on **Open Source AI/ML Projects**
+- 💬 Ask me about **Python, Machine Learning, Computer Vision, Flask**
+- ⚡ Fun fact: **I love turning coffee into code! ☕➡️💻**
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manik-singh-sarmaal-66b291261/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maniksarmaal/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@maniksarmaal)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManikSinghSarmaal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maniksarmaal@gmail.com)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🖥️ Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🤖 AI/ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🌐 Web Development
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Hardware & IoT
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+### 🎨 Creative Tools
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- 3D Contribution Graph - This is the cool 3D green graph you asked about! -->
+### 🏙️ My 3D Contribution Skyline
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+
+<!-- Alternative: Green Animated Version -->
+<!-- <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" /> -->
+
+</div>
+
+<div align="center">
+
+### 📈 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ManikSinghSarmaal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManikSinghSarmaal&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+### 🔥 Contribution Streak
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManikSinghSarmaal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=ManikSinghSarmaal&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="100%" />
+
+### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManikSinghSarmaal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
+
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!-- If you set up WakaTime, your coding stats will appear here automatically! -->
+<!--END_SECTION:waka-->
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```
+🤖 Machine Learning     ████████████████████░░░░░   80%
+👁️ Computer Vision       ██████████████████░░░░░░░   75%
+🧠 Deep Learning         ███████████████░░░░░░░░░░   65%
+🌐 Web Development       ████████████░░░░░░░░░░░░░   50%
+🔧 IoT & Embedded        ██████████░░░░░░░░░░░░░░░   40%
+```
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/ManikSinghSarmaal/ManikSinghSarmaal/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎧 Vibing To
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Show Your Support!
+
+If you like my work, consider giving a ⭐ to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=36&fontColor=fff&animation=twinkling" />
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔝 Top Contributed Repositories
+
+<!-- You can add your top repositories here -->
+
+</div>
+
+<!-- 
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  🚀 SETUP INSTRUCTIONS FOR 3D CONTRIBUTION GRAPH                             ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  To enable the 3D contribution graph, follow these steps:                    ║
+║                                                                              ║
+║  1. Create a repository named exactly as your username:                      ║
+║     ManikSinghSarmaal/ManikSinghSarmaal                                      ║
+║                                                                              ║
+║  2. Create this GitHub Actions workflow file:                                ║
+║     .github/workflows/profile-3d.yml                                         ║
+║                                                                              ║
+║  3. Add the following content to the workflow file:                          ║
+║                                                                              ║
+║  ═══════════════════════════════════════════════════════════════════════     ║
+║  name: GitHub-Profile-3D-Contrib                                             ║
+║                                                                              ║
+║  on:                                                                         ║
+║    schedule:                                                                 ║
+║      - cron: "0 18 * * *"  # Runs daily at 6 PM UTC                          ║
+║    workflow_dispatch:  # Allows manual trigger                               ║
+║                                                                              ║
+║  permissions:                                                                ║
+║    contents: write                                                           ║
+║                                                                              ║
+║  jobs:                                                                       ║
+║    build:                                                                    ║
+║      runs-on: ubuntu-latest                                                  ║
+║      name: generate-github-profile-3d-contrib                                ║
+║      steps:                                                                  ║
+║        - uses: actions/checkout@v5                                           ║
+║        - uses: yoshi389111/github-profile-3d-contrib@latest                  ║
+║          env:                                                                ║
+║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}                         ║
+║            USERNAME: ${{ github.repository_owner }}                          ║
+║        - name: Commit & Push                                                 ║
+║          run: |                                                              ║
+║            git config user.name github-actions                               ║
+║            git config user.email github-actions@github.com                   ║
+║            git add -A .                                                      ║
+║            if git commit -m "generated"; then                                ║
+║              git push                                                        ║
+║            fi                                                                ║
+║  ═══════════════════════════════════════════════════════════════════════     ║
+║                                                                              ║
+║  4. Go to Actions tab → GitHub-Profile-3D-Contrib → Run workflow             ║
+║                                                                              ║
+║  5. The 3D graph will be generated in: profile-3d-contrib/ folder            ║
+║                                                                              ║
+║  Available themes:                                                           ║
+║  • profile-green.svg / profile-green-animate.svg                             ║
+║  • profile-season.svg / profile-season-animate.svg                           ║
+║  • profile-night-view.svg                                                    ║
+║  • profile-night-green.svg                                                   ║
+║  • profile-night-rainbow.svg  ← Currently used!                              ║
+║  • profile-gitblock.svg                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->

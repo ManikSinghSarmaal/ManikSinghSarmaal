@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Manik+Singh+Sarmaal" alt="Typing SVG" />
 </a>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=520&height=35&lines=AI+Researcher+%7C+Deep+Learning+Enthusiast+%7C+Developer" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=520&height=35&lines=AI+Researcher+%7C+Deep+Learning+Enthusiast+%7C+Developer" alt="Subtitle" />
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=ManikSinghSarmaal&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views" />

@@ -111,10 +111,10 @@ me.say_hi()
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ManikSinghSarmaal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ManikSinghSarmaal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManikSinghSarmaal&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=ManikSinghSarmaal&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -123,10 +123,10 @@ me.say_hi()
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManikSinghSarmaal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=ManikSinghSarmaal&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ManikSinghSarmaal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%" />
 
 ### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManikSinghSarmaal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManikSinghSarmaal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
 
 </div>
 

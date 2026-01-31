@@ -122,11 +122,6 @@ me.say_hi()
 ### 🔥 Contribution Streak
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManikSinghSarmaal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 
-### 🏆 GitHub Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="./assets/trophies.svg" alt="GitHub Trophies" width="100%" />
-</a>
-
 ### 💻 Most Used Languages
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManikSinghSarmaal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
 

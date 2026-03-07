@@ -131,30 +131,6 @@ me.say_hi()
 
 ---
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!-- If you set up WakaTime, your coding stats will appear here automatically! -->
-<!--END_SECTION:waka-->
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```
-🤖 Machine Learning     ████████████████████░░░░░   80%
-👁️ Computer Vision       ██████████████████░░░░░░░   75%
-🧠 Deep Learning         ███████████████░░░░░░░░░░   65%
-🌐 Web Development       ████████████░░░░░░░░░░░░░   50%
-🔧 IoT & Embedded        ██████████░░░░░░░░░░░░░░░   40%
-```
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">

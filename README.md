@@ -1,31 +1,48 @@
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Manik+Singh+Sarmaal" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Manik+Singh+Sarmaal;AI+Researcher;Philosophy+of+Mind+Enthusiast" alt="Typing Intro" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ManikSinghSarmaal&label=views&color=8B949E&style=flat-square" alt="Profile Views" />
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=AI+Researcher+%7C+Philosophy+of+Mind+Enthusiast" />
+```python
+"""
+@author: Manik Singh Sarmaal
+@domain: Artificial Intelligence & Philosophy of Mind
+"""
 
-<img src="https://komarev.com/ghpvc/?username=ManikSinghSarmaal&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views" />
+class Cognition(Human):
+    def __init__(self):
+        super().__init__()
+        self.name = "Manik"
+        self.primary_loop = "AI Research"
+        self.latent_space = [
+            "Machine Learning Models",
+            "Cognitive Architectures",
+            "Philosophy of Mind"
+        ]
+        
+    def execute_mission(self):
+        return "Exploring the intersection of neural networks and conscious thought. No, I am not fully promoting anthropomorphism yet ;)"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+if __name__ == "__main__":
+    manik = Cognition()
+    print(manik.execute_mission())
+```
 
-</div>
-
-
-## my online trail 🤨:
+<br>
 
 <div align="center">
+  <i><code>sys.stdout.write("network.connections")</code></i>
+  <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manik-singh-sarmaal-66b291261/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maniksarmaal/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@maniksarmaal)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManikSinghSarmaal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maniksarmaal@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maniksinghs)
-
+  <a href="https://github.com/ManikSinghSarmaal"><img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/manik-singh-sarmaal-66b291261/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/maniksinghs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.youtube.com/@maniksarmaal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/maniksarmaal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:maniksarmaal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ## 

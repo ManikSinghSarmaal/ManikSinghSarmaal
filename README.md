@@ -1,50 +1,36 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Manik+Singh+Sarmaal" alt="Typing SVG" />
 </a>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=520&height=35&lines=AI+Researcher+%7C+Deep+Learning+Enthusiast+%7C+Developer" alt="Subtitle" />
 
-<!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=ManikSinghSarmaal&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views" />
 
-<!-- Cool Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 </div>
 
 ---
 
-## 🚀 About Me
-
 ```python
 class ManikSinghSarmaal:
     def __init__(self):
         self.name = "Manik Singh Sarmaal"
-        self.role = "AI/ML Developer & Software Engineer"
-        self.location = "🌍 Earth"
-        self.languages = ["Python", "C++"]
-        self.interests = ["Machine Learning", "Computer Vision", "Deep Learning", "IoT"]
-        self.currently_learning = "Always something new! 🚀"
+        self.interests = "AI Research/ Deep Learning/ Soft Robotics"
+        self.languages = ["Python", "C++", "Bash", "Node", "mysql"]
     
     def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together! 🚀")
+        print("Great to see you exploring around on GitHub, wanderer.")
 
 me = ManikSinghSarmaal()
 me.say_hi()
 ```
 
-- 🔭 I'm currently working on **AI/ML Projects & Computer Vision Applications**
-- 🌱 I'm currently learning **Advanced Deep Learning & MLOps**
-- 👯 I'm looking to collaborate on **Open Source AI/ML Projects**
-- 💬 Ask me about **Python, Machine Learning, Computer Vision, Flask**
-- ⚡ Fun fact: **I love turning coffee into code! ☕➡️💻**
-
 ---
 
-## 🌐 Connect With Me
+## Catch me around here:
 
 <div align="center">
 
@@ -53,38 +39,6 @@ me.say_hi()
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@maniksarmaal)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManikSinghSarmaal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maniksarmaal@gmail.com)
-
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### 🖥️ Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🤖 AI/ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🌐 Web Development
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Hardware & IoT
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-### 🎨 Creative Tools
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
 </div>
 
@@ -121,7 +75,7 @@ me.say_hi()
   </tr>
 </table>
 
-### 🔥 Contribution Streak
+### Contribution Streak 🔥
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManikSinghSarmaal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 
 ### 💻 Most Used Languages
@@ -150,42 +104,6 @@ me.say_hi()
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-</div>
-
----
-
-<!-- Uncomment below if you want to add Spotify - replace YOUR_SPOTIFY_USERNAME with your actual username
-<div align="center">
-
-### 🎧 Vibing To
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
--->
-
----
-
-<div align="center">
-
-## ⭐ Show Your Support!
-
-If you like my work, consider giving a ⭐ to my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=36&fontColor=fff&animation=twinkling" />
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-</div>
-
----
-
-<div align="center">
-
-### 🔝 Top Contributed Repositories
-
-<!-- You can add your top repositories here -->
 
 </div>
 

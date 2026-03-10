@@ -1,10 +1,27 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Manik+Singh+Sarmaal%3BAI+Researcher%3BPhilosophy+of+Mind+Enthusiast" alt="Typing Intro" />
-<br>
-<img src="https://komarev.com/ghpvc/?username=ManikSinghSarmaal&label=views&color=8B949E&style=flat-square" alt="Profile Views" />
-</div>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░  ███╗   ███╗ █████╗ ███╗   ██╗██╗██╗  ██╗             ░  ║
+║  ░  ████╗ ████║██╔══██╗████╗  ██║██║██║ ██╔╝             ░  ║
+║  ░  ██╔████╔██║███████║██╔██╗ ██║██║█████╔╝              ░  ║
+║  ░  ██║╚██╔╝██║██╔══██║██║╚██╗██║██║██╔═██╗              ░  ║
+║  ░  ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║██║  ██╗             ░  ║
+║  ░  ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝            ░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<!-- Glitch typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=700&height=40&lines=%5BSYS%3A%3ABOOT%5D+AI+Researcher+%2F+;%5BINIT%5D+Computer+Vision+%7C+Intelligent+Systems;%5BLOAD%5D+Philosophy+of+Mind+%2F%2F+Consciousness+Studies;%5BRUN%5D+Intersection+of+Neural+Networks+%26+Thought;%5BWARN%5D+Reality+may+be+a+simulation..." alt="Terminal Typing" />
 
 <br>
+
+<!-- Profile views with terminal style -->
+<img src="https://komarev.com/ghpvc/?username=ManikSinghSarmaal&label=SIGNAL_TRACE&color=00ffcc&style=flat-square" alt="Signal Trace" />
+
+</div>
 
 ```python
 """
@@ -13,14 +30,17 @@
 """
 
 class Cognition(Human):
+""" consciousness.exe is running in background
+    Attempting to solve the hard problem of consciousness
+    ETA: undefined """
     def __init__(self):
         super().__init__()
         self.name = "Manik"
         self.primary_loop = "AI Research"
         self.latent_space = [
             "Machine Learning Models",
-            "Cognitive Architectures",
-            "Philosophy of Mind"
+            "Cognitive Architectures based on Philosophy of Mind",
+            ""Where does the signal end and the self begin?""
         ]
         
     def execute_mission(self):
@@ -31,11 +51,8 @@ if __name__ == "__main__":
     print(manik.execute_mission())
 ```
 
-<br>
-
+## `>> Wya?`
 <div align="center">
-  <i><code>sys.stdout.write("network.connections")</code></i>
-  <br><br>
 
   <a href="https://github.com/ManikSinghSarmaal"><img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/manik-singh-sarmaal-66b291261/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -60,23 +77,22 @@ if __name__ == "__main__":
 
 </div>
 
+## `>> To the moon? 📈 `
+
 <div align="center">
 
-### 📈 To the moon ?
-
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ManikSinghSarmaal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=ManikSinghSarmaal&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-    </td>
-  </tr>
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ManikSinghSarmaal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00ffcc&icon_color=ff0066&text_color=c9d1d9&ring_color=00ffcc" alt="Stats" />
+</td>
+<td>
+<img src="https://streak-stats.demolab.com/?user=ManikSinghSarmaal&theme=dark&hide_border=true&background=0d1117&ring=00ffcc&fire=ff0066&currStreakLabel=00ffcc&sideLabels=00ffcc" alt="Streak" />
+</td>
+</tr>
 </table>
 
-### Contribution 🔥
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManikSinghSarmaal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManikSinghSarmaal&bg_color=0d1117&color=00ffcc&line=ff0066&point=ffffff&hide_border=true&area=true&area_color=00ffcc" alt="Activity Graph" width="100%" />
 
 </div>
 

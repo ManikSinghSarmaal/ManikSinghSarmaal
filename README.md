@@ -16,40 +16,37 @@
 <!-- Glitch typing effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=700&height=40&lines=%5BSYS%3A%3ABOOT%5D+AI+Researcher+%2F+;%5BINIT%5D+Computer+Vision+%7C+Intelligent+Systems;%5BLOAD%5D+Philosophy+of+Mind+%2F%2F+Consciousness+Studies;%5BRUN%5D+Intersection+of+Neural+Networks+%26+Thought;%5BWARN%5D+Reality+may+be+a+simulation..." alt="Terminal Typing" />
 
-<br>
-
-<!-- Profile views with terminal style -->
-<img src="https://komarev.com/ghpvc/?username=ManikSinghSarmaal&label=SIGNAL_TRACE&color=00ffcc&style=flat-square" alt="Signal Trace" />
-
 </div>
 
-```python
-"""
-@author: Manik Singh Sarmaal
-@domain: Artificial Intelligence & Philosophy of Mind
-"""
-
-class Cognition(Human):
-""" consciousness.exe is running in background
-    Attempting to solve the hard problem of consciousness
-    ETA: undefined """
-    def __init__(self):
-        super().__init__()
-        self.name = "Manik"
-        self.primary_loop = "AI Research"
-        self.latent_space = [
-            "Machine Learning Models",
-            "Cognitive Architectures based on Philosophy of Mind",
-            ""Where does the signal end and the self begin?""
-        ]
-        
-    def execute_mission(self):
-        return "Exploring the intersection of neural networks and conscious thought. No, I am not fully promoting anthropomorphism yet ;)"
-
-if __name__ == "__main__":
-    manik = Cognition()
-    print(manik.execute_mission())
 ```
+░░░░░░░░░░░░▄▐░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▄▄▄▄▄▄▄▄▄░░░░░░░░░
+░░░░░░▄▄▄░░▄██▄░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄██▀▀▀░░░░▀▀▀██▄░░░░░░
+░░░░░▐▀█▀▌░░░░▀█▄░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄██▀░░░░░░░░░░░░▀██▄░░░░
+░░░░░▐█▄█▌░░░░░░▀█▄ ✦ ░ ─ ─ ─ ┌─o─┐ ─ ─ ── ░ ✦ ░ ── ─ ─ ┌─o─┐ ─ ─ ── ░ ✦ ░ ─ ─ ─ ┌─o─┐ ─ ▄██▀░░░░░░░░░░░░░░▀██▄░░░
+░░░░░░▀▄▀░░░▄▄▄▄▄▀▀░░░░░░░░░░░│░░░│░░░░░░░░░░░░░░░░░░░░░│░░░│░░░░░░░░░░░░░░░░░░░░░│░░░│░░███░░░░░░░░░░░░░░░░░░███░░
+░░░░▄▄▄██▀▀▀▀░░░░░░░░░░░░░░░░░│░░░└─ ─ ── ░ ✦ ░ ── ─ ─ ─┘░░░│░░░░░░░░░░░░░░░░░░░░░│░░░└─ ███░░░░░░░░✦░░░░░░░░░███░░
+░░░█▀▄▄▄█░▀▀░░░░░░░░░░░░░░░░░░└─ ─ ─ ── ░ ✦ ░ ─ ░ ✦ ░ ── ─ ─┘░░░░░░░░░░░░░░░░░░░░░└─ ─ ─ ███░░░░░░▄▀█▀▄░░░░░░░███░░
+░░░▌░▄▄▄▐▌▀▀▀░░░░░░░░░░░░░░░░░░░░░ 01010111 ░░░ 10101001 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░███░░░░░░░░█░░░░░░░░░███░░
+▄░▐░░░▄▄░█░▀▀░░░░░░░░░░░░░░░░░░░░░ 10101001 ░░░ 01010111 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░███░░░░░░▄▀░▀▄░░░░░░░███░░
+▀█▌░░░▄░▀█▀░▀░░░░░░░░░░░░░░░░░░░┌─ ─ ─ ── ░ ✦ ░ ─ ░ ✦ ░ ── ─ ─┐░░░░░░░░░░░░░░░░░░░░░┌─ ─ ███░░░░░░▀▄░▄▀░░░░░░░███░░
+░░░░░░░▄▄▐▌▄▄░░░░░░░░░░░░░░░░░░│░░░┌─ ─ ── ░ ✦ ░ ── ─ ─ ─┐░░░│░░░░░░░░░░░░░░░░░░░░░│░░░┌─███░░░░░░░░█░░░░░░░░░███░░
+░░░░░░░▀███▀█░▄░░░░░░░░░░░░░░░░│░░░│░░░░░░░░░░░░░░░░░░░░░│░░░│░░░░░░░░░░░░░░░░░░░░░│░░░│░▀██▄░░░░░░░█░░░░░░░░▄██▀░░
+░░░░░░▐▌▀▄▀▄▀▐▄░░░ ✦ ░ ─ ─ ─ └─o─┘ ─ ─ ── ░ ✦ ░ ── ─ ─ └─o─┘ ─ ─ ── ░ ✦ ░ ─ ─ ─ └─o─┘ ─ ─░▀██▄░░░▄▄███▄▄░░░░▄██▀░░░
+░░░░░░▐▀░░░░░░▐▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▀██▄▄█████████▄▄██▀░░░░░
+░░░░░░█░░░░░░░░█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▀▀████████████▀▀░░░░░░
+░░░░░▐▌░░░░░░░░░█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▀▀▀▀▀▀▀▀░░░░░░░░░░░
+░░░░░█░░░░░░░░░░▐▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;
+<b>The Organic Past</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<b>The Void of Hardware</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>The Synthetic Future</b>
+</p>
+
+<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b> Cognitive Transfer </b> </p>
 
 ## `>> Wya?`
 <div align="center">
@@ -96,7 +93,7 @@ if __name__ == "__main__":
 
 </div>
 
-## 🐍
+## 🐍 
 
 <div align="center">
 
@@ -105,14 +102,6 @@ if __name__ == "__main__":
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManikSinghSarmaal/ManikSinghSarmaal/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ManikSinghSarmaal/ManikSinghSarmaal/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
-
-## Random Dev Quote, cuz why not 🤪
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 

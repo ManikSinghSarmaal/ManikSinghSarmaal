@@ -14,7 +14,7 @@
 ```
 
 <!-- Glitch typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=700&height=40&lines=%5BSYS%3A%3ABOOT%5D+AI+Researcher+%2F+;%5BINIT%5D+Computer+Vision+%7C+Intelligent+Systems;%5BLOAD%5D+Philosophy+of+Mind+%2F%2F+Consciousness+Studies;%5BRUN%5D+Intersection+of+Neural+Networks+%26+Thought;%5BWARN%5D+Reality+may+be+a+simulation..." alt="Terminal Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=%5BSYS%3A%3ABOOT%5D+AI+Researcher+;%5BINIT%5D+Computer+Vision+%7C+Intelligent+Systems;%5BLOAD%5D+Philosophy+of+Mind+%2F%2F+Consciousness+Studies;%5BRUN%5D+Intersection+of+Neural+Networks+%26+Thought;%5BWARN%5D+Reality+may+be+a+simulation..." alt="Terminal Typing" />
 
 </div>
 
@@ -42,11 +42,6 @@
 <b>The Organic Past</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
 <b>The Void of Hardware</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Synthetic Future</b>
-</p>
-
-<p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b> Cognitive Transfer </b> </p>
 
 ## `>> Wya?`
 <div align="center">

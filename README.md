@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Manik+Singh+Sarmaal;AI+Researcher;Philosophy+of+Mind+Enthusiast" alt="Typing Intro" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ManikSinghSarmaal&label=views&color=8B949E&style=flat-square" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Manik+Singh+Sarmaal%3BAI+Researcher%3BPhilosophy+of+Mind+Enthusiast" alt="Typing Intro" />
+<br>
+<img src="https://komarev.com/ghpvc/?username=ManikSinghSarmaal&label=views&color=8B949E&style=flat-square" alt="Profile Views" />
 </div>
 
 <br>

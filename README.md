@@ -1,10 +1,12 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Manik+Singh+Sarmaal" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Manik+Singh+Sarmaal" />
 </a>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=520&height=35&lines=AI+Researcher+%7C+Deep+Learning+Enthusiast+%7C+Developer" alt="Subtitle" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=AI+Researcher+%7C+Philosophy+of+Mind+Enthusiast" />
 
 <img src="https://komarev.com/ghpvc/?username=ManikSinghSarmaal&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views" />
 
@@ -12,25 +14,8 @@
 
 </div>
 
----
 
-```python
-class ManikSinghSarmaal:
-    def __init__(self):
-        self.name = "Manik Singh Sarmaal"
-        self.interests = "AI Research/ Deep Learning/ Soft Robotics"
-        self.languages = ["Python", "C++", "Bash", "Node", "mysql"]
-    
-    def say_hi(self):
-        print("Great to see you exploring around on GitHub, wanderer.")
-
-me = ManikSinghSarmaal()
-me.say_hi()
-```
-
----
-
-## Catch me around here:
+## my online trail 🤨:
 
 <div align="center">
 
@@ -39,12 +24,11 @@ me.say_hi()
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@maniksarmaal)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManikSinghSarmaal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maniksarmaal@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maniksinghs)
 
 </div>
 
----
-
-## 📊 GitHub Analytics
+## 
 
 <div align="center">
 
@@ -62,7 +46,7 @@ me.say_hi()
 
 <div align="center">
 
-### 📈 GitHub Stats
+### 📈 To the moon ?
 
 <table>
   <tr>
@@ -75,17 +59,12 @@ me.say_hi()
   </tr>
 </table>
 
-### Contribution Streak 🔥
+### Contribution 🔥
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManikSinghSarmaal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-
-### 💻 Most Used Languages
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManikSinghSarmaal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
 
 </div>
 
----
-
-## 🐍 Contribution Snake
+## 🐍
 
 <div align="center">
 
@@ -97,9 +76,7 @@ me.say_hi()
 
 </div>
 
----
-
-## 💡 Random Dev Quote
+## Random Dev Quote, cuz why not 🤪
 
 <div align="center">
 

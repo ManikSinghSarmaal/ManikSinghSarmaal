@@ -1,23 +1,3 @@
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║ ░▒▓██████▓▒░           ≈          ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░          ≈           ░▒▓██████▓▒░ ║
-║ ░▒▓████▓▒░             ∞            ███╗   ███╗ █████╗ ███╗   ██╗██╗██╗  ██╗             ∞             ░▒▓████▓▒░ ║
-║ ░▒▓██▓▒░             ┌─○─┐          ████╗ ████║██╔══██╗████╗  ██║██║██║ ██╔╝           ┌─○─┐             ░▒▓██▓▒░ ║
-║ ░▒▓█▒░        [Latent Space] ──>    ██╔████╔██║███████║██╔██╗ ██║██║█████╔╝     ──> [Cognitive Graph]      ░▒▓█▒░ ║
-║ ░▒▓█▒░           [Entropy] ────>    ██║╚██╔╝██║██╔══██║██║╚██╗██║██║██╔═██╗     ────> [Emergence]          ░▒▓█▒░ ║
-║ ░▒▓██▓▒░             └─○─┘          ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║██║  ██╗           └─○─┘             ░▒▓██▓▒░ ║
-║ ░▒▓████▓▒░             ∆            ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝             ∆             ░▒▓████▓▒░ ║
-║ ░▒▓██████▓▒░           ≈          ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░          ≈           ░▒▓██████▓▒░ ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<!-- Glitch typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=%5BSYS%3A%3ABOOT%5D+AI+Researcher+;%5BINIT%5D+Computer+Vision+%7C+Intelligent+Systems;%5BLOAD%5D+Philosophy+of+Mind+%2F%2F+Consciousness+Studies;%5BRUN%5D+Intersection+of+Neural+Networks+%26+Thought;%5BWARN%5D+Reality+may+be+a+simulation..." alt="Terminal Typing" />
-
-</div>
-
 ```
 ░░░░░░░░░░░░▄▐░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▄▄▄▄▄▄▄▄▄░░░░░░░░░
 ░░░░░░▄▄▄░░▄██▄░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄██▀▀▀░░░░▀▀▀██▄░░░░░░
@@ -35,13 +15,19 @@
 ░░░░░░▐▀░░░░░░▐▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▀██▄▄█████████▄▄██▀░░░░░
 ░░░░░░█░░░░░░░░█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▀▀████████████▀▀░░░░░░
 ░░░░░▐▌░░░░░░░░░█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▀▀▀▀▀▀▀▀░░░░░░░░░░░
-░░░░░█░░░░░░░░░░▐▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;
 <b>The Organic Past</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
 <b>The Void of Hardware</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Synthetic Future</b>
+
+<div align="center">
+
+<!-- Glitch typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=%5BSYS%3A%3ABOOT%5D+AI+Researcher+;%5BINIT%5D+Computer+Vision+%7C+Intelligent+Systems;%5BLOAD%5D+Philosophy+of+Mind+%2F%2F+Consciousness+Studies;%5BRUN%5D+Intersection+of+Neural+Networks+%26+Thought;%5BWARN%5D+Reality+may+be+a+simulation..." alt="Terminal Typing" />
+
+</div>
 
 ## `>> Wya?`
 <div align="center">
